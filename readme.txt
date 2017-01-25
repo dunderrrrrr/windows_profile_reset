@@ -14,5 +14,5 @@ Sometimes:
 Script will:
 - "old/rename" central profile
 - "old/rename" local profile (remote computer)
-- remote SID/guid in remote computer registry
+- Remove SID/guid in remote computer registry
 
